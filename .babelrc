@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "env",
+    "react-app",
+    "stage-0"
+  ],
+  "plugins": [
+    "transform-runtime",["import", { "libraryName": "antd", "libraryDirectory": "es", "style": "css" }]
+  ]
+}
