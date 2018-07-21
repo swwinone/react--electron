@@ -1,0 +1,10 @@
+.userinfo{
+    width: 250px;
+    margin: 0 auto;
+}
+.userinfo .person-btn{
+    margin-left: 154px;
+}
+.userinfo .person-item{
+    margin-bottom: 15px
+}

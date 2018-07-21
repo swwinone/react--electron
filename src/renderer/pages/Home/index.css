@@ -1,0 +1,17 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: sans-serif;
+} 
+.homepage{
+    display:flex;
+    height: 100%;
+    overflow: hidden;
+}
+.homepage .home_menu{
+    flex:0 0 200px;
+}
+.homepage .home_right{
+    flex: 1;
+}
